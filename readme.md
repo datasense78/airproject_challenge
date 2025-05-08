@@ -33,9 +33,9 @@ You must build an **AI Agentic System** that can:
 
 | Type      | Title                                             | Source |
 |-----------|---------------------------------------------------|--------|
-| PDF       | Employee Lifecycle & Benefits Handbook            | `docs/HR_Handbook.pdf`       |
-| PDF       | Confidential Security Standards                   | `docs/Security_Protocol.pdf` |
-| PDF       | Enterprise Sales Playbook                         | `docs/Sales_Playbook.pdf`    |
+| PDF       | Employee Lifecycle & Benefits Handbook            | `HR_Handbook.pdf`       |
+| PDF       | Confidential Security Standards                   | `Security_Protocol.pdf` |
+| PDF       | Enterprise Sales Playbook                         | `Sales_Playbook.pdf`    |
 | Web Page  | Engineering SOPs (scrapable HTML)                | [https://datasense78.github.io/engineeringsop/](https://datasense78.github.io/engineeringsop/) |
 
 ---
