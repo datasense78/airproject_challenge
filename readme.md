@@ -1,4 +1,5 @@
-# 🚀 AlturaTech PolicyPilot Challenge
+
+# 🚀 Data Sense AI Project Challenge 1 (May 9-15'2025)
 
 Welcome to the **PolicyPilot: AI Agentic Application Challenge**, where your task is to build an intelligent agent-based system that can answer complex internal company policy questions using real company documents and data.
 
@@ -32,10 +33,10 @@ You must build an **AI Agentic System** that can:
 
 | Type      | Title                                             | Source |
 |-----------|---------------------------------------------------|--------|
-| PDF       | Employee Lifecycle & Benefits Handbook            | `docs/hr_handbook.pdf`       |
-| PDF       | Confidential Security Standards                   | `docs/security_protocol.pdf` |
-| PDF       | Enterprise Sales Playbook                         | `docs/sales_playbook.pdf`    |
-| Web Page  | Engineering SOPs (scrapable HTML)                | [https://your-username.github.io/your-repo-name](https://your-username.github.io/your-repo-name) |
+| PDF       | Employee Lifecycle & Benefits Handbook            | `docs/HR_Handbook.pdf`       |
+| PDF       | Confidential Security Standards                   | `docs/Security_Protocol.pdf` |
+| PDF       | Enterprise Sales Playbook                         | `docs/Sales_Playbook.pdf`    |
+| Web Page  | Engineering SOPs (scrapable HTML)                | [https://datasense78.github.io/engineeringsop/](https://datasense78.github.io/engineeringsop/) |
 
 ---
 
@@ -44,13 +45,15 @@ You must build an **AI Agentic System** that can:
 You must use an **Agentic framework**. Options:
 - LangGraph
 - CrewAI
+- Autogen
 - Custom multi-agent controller in Python
+- Any Other Framework of Your Choice
 
 Agents you must build:
 - 🧱 **Router Agent** – identifies relevant doc(s) from user query
 - 📚 **Retriever Agent** – performs vector or keyword-based chunk retrieval
 - 🧠 **Reasoning Agent** – handles follow-ups, conflicting answers, or combines multiple document sections
-- ✅ **Compliance Agent** – redacts risky content or adds policy-safe footnotes
+-  **Compliance Agent** – redacts risky content or adds policy-safe footnotes
 
 ---
 
@@ -82,7 +85,7 @@ Agents you must build:
 
 ---
 
-## ✅ Deliverables
+## Deliverables
 
 - 📂 A clean repo with folders:
   - `/docs` → all provided PDFs
@@ -90,7 +93,7 @@ Agents you must build:
   - `app.py` or `main.py` → your pipeline entry point
   - `README.md` → this file
 
-- ✅ Final output must show:
+- Final output must show:
   - Final answer
   - Source document name(s)
   - Retrieved text snippets or chunk IDs
@@ -107,7 +110,7 @@ Agents you must build:
 
 ---
 
-## 🏑 How to Submit
+##  How to Submit
 
 - Upload your repo to GitHub (public or private)
 - Include a 2-minute demo video (screen recording is enough)
@@ -116,7 +119,7 @@ Agents you must build:
 
 ---
 
-## 🧾 Evaluation Criteria (Total: 100 points)
+## Evaluation Criteria (Total: 100 points)
 
 | Criteria                            | Points |
 |-------------------------------------|--------|
@@ -128,11 +131,13 @@ Agents you must build:
 | Bonus features (trace UI, edits)    | 10     |
 | Code quality + modularity           | 5      |
 
-Projects scoring 85+ will be considered for special feature/demo slot with the AlturaTech AI team.
+Projects scoring 85+ will be considered for special recommendation by datasense team.
 
 ---
 
 ## 🙌 Best of Luck!
 Make it smart. Make it traceable. Make it useful.
 
-For doubts, email us at: **challenge@alturatech.io**
+For doubts, email us at: **datasense.learning@gmail.com**
+
+**Deadline to Submit:** 15 May 2025, EOD
